@@ -1,0 +1,20 @@
+path:
+  path_corpus: "corpus/wisesight/"
+
+train_test_split:
+  test_size: 0.2
+  random_state: 99
+
+model:
+  name: 'my_model.model'
+
+trainer:
+  c1: 0.01
+  c2: 0.01
+  max_iterations: 1000
+  feature.possible_transitions: True
+
+wandb:
+  init:
+    project: "train-in-docker"
+    tags: 'dev'

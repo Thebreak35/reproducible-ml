@@ -1,0 +1,8 @@
+hydra-core==1.1
+numpy
+pandas
+pyahocorasick
+python-crfsuite
+scipy
+scikit-learn
+wandb

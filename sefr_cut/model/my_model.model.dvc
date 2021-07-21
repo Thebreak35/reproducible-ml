@@ -1,0 +1,4 @@
+outs:
+- md5: 713d463d05f45fcfafbde41e3b5ef587
+  size: 135104
+  path: my_model.model

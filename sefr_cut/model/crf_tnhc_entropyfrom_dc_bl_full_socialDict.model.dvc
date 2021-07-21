@@ -1,0 +1,4 @@
+outs:
+- md5: aa17acd138bee3231026286d48afda4f
+  size: 106416
+  path: crf_tnhc_entropyfrom_dc_bl_full_socialDict.model

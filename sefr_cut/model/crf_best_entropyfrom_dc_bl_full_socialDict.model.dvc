@@ -1,0 +1,4 @@
+outs:
+- md5: e964f1853bee35406906966a72db6fda
+  size: 126272
+  path: crf_best_entropyfrom_dc_bl_full_socialDict.model
